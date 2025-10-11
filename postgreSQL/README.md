@@ -10,7 +10,7 @@ O banco de dados contém as seguintes tabelas: cidades, clientes, concessionaria
 
 Abaixo está o diagrama relacional que ilustra a estrutura do banco de dados:
 
-![Diagrama Relacional](./images/postgreSQL.png)
+![Diagrama Relacional](../images/postgreSQL.png)
 
 ## Exercícios de Exploração de Dados
 
@@ -50,7 +50,7 @@ Dentro da pasta [*atividades-sql*](./atividades-sql), você encontrará 11 exerc
 10. [*Consulta com Várias Condições*](./atividades-sql/consulta-condicoes.sql)  
     Descrição: Encontre todos os clientes que compraram um veículo do tipo 'SUV Premium Híbrida' ou com valor superior a 60.000,00.
 
-11. [*Construção View*](.atividades-sql/construcao-view.sql)
+11. [*Construção View*](./atividades-sql/construcao-view.sql)
     Descrição: Construção de View
 ---
 

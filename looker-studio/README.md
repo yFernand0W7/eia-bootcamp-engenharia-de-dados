@@ -15,7 +15,7 @@ O relatório conta com visualizações que destacam:
 ---
 
 ## 🖼 Visualização
-![Dashboard Looker Studio](./images/looker-studio_dashboard.png)
+![Dashboard Looker Studio](../images/looker-studio_dashboard.png)
 
 ---
 

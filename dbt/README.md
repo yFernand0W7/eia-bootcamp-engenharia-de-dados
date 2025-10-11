@@ -20,7 +20,7 @@ Através dele, os dados brutos são organizados em camadas estruturadas, facilit
 O DBT foi integrado ao **Snowflake**, automatizando todo o processo de transformação e carga.  
 Os dados são inicialmente extraídos do **PostgreSQL**, tratados em camadas no DBT e disponibilizados para consumo no **Looker Studio**.
 
-![Fluxo de dados no DBT](./images/dbt-camada-analitica.png)
+![Fluxo de dados no DBT](../images/dbt-camada-analitica.png)
 
 ---
 

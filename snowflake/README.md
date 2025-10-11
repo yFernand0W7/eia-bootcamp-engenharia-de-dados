@@ -19,4 +19,4 @@ Para preparar o ambiente no *Snowflake*, as seguintes configurações foram feit
 - *Criação das Tabelas*: Para armazenar os dados extraídos do PostgreSQL.
 
 O script SQL para criar toda a estrutura no Snowflake pode ser encontrado em:  
-📂 [snowflake.sql](./sql/snowflake.sql)
+📂 [snowflake.sql](./sql/snowflake-script-sql.sql)
