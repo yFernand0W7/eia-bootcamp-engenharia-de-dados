@@ -1,7 +1,7 @@
 # 📊 Dashboard de Vendas - Google Looker Studio
 
 ## 🔎 Visão Geral
-Este projeto utiliza o *Google Looker Studio* para criar um *painel interativo de análise de vendas, com base nos dados armazenados e processados no **Snowflake*.  
+Este projeto utiliza o *Google Looker Studio* para criar um *painel interativo de análise de vendas, com base nos dados armazenados e processados no* **Snowflake**.  
 O objetivo é fornecer uma *visão clara e dinâmica* do desempenho das concessionárias, permitindo identificar *tendências, variações regionais e oportunidades de melhoria*.
 
 ---
